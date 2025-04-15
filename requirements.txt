@@ -4,3 +4,6 @@ langchain-groq == 0.3.2
 langgraph == 0.3.29
 IPython
 streamlit
+ipykernel
+tavily-python
+langchain_community
